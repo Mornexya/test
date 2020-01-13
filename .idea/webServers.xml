@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="186493ed-1701-469d-901c-ba955d2f26ff" name="tests" url="https://github.com/Mornexya">
-        <fileTransfer anonymous="true" host="git" port="21">
+        <fileTransfer host="git" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
